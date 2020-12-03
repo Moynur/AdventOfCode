@@ -6,7 +6,7 @@ Advent of Code Data Tool
 AoC gives each user a different input file, we can get our own input by including session data when sending the HTTP 
 request.
 
-This tool will get your AoC input for the day and return it as an array of strings for each line.
+This tool will get your AoC input for the day and return it as an array of strings for each line in Go.
 
 - input[0] = line 1
 - input[1] = line 2
